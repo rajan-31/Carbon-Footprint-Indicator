@@ -1,0 +1,141 @@
+Category,Brand,Model Name/No.,Screen Size (Inch),Assembly Location,weight (kg),Price (MRP),Carbon emmision (kg)
+Laptop,Dell,XPS 13 9360,13.3,China,1.23,110000,286
+Laptop,Dell,XPS 15 9570,15.6,China,2.05,153603,324
+Laptop,Dell, XPS 7390,13.3,China,1.29,120957,372
+Laptop,Dell,XPS 9310,13.4,China,1.2,189990,322
+Laptop,Dell,XPS 9370,13.3,China,1.21,110529,297
+Laptop,Dell,XPS 9500,15.6,China,1.83,289000,380
+Laptop,Dell,XPS 9310,13.4,China,1.2,189990,342
+Laptop,Dell,XPS 9300,13.3,China,1.27,154446,327
+Laptop,HP,Notebook PC 240 G7,14,China,1.52,77800,265
+Laptop,HP,Notebook PC 245 G7,14,China,1.5,28000,275
+Laptop,HP,245 G8 Notebook PC,14,China,1.5,41055,285
+Laptop,HP,Notebook PC 348 G7,14,China,1.5,73899,320
+Laptop,HP,Pavilion x360 14 Convertible PC,14,China,1.58,76379,345
+Laptop,HP,Pavilion x360 15 Convertible,15.6,China,1.92,76379,360
+Laptop,HP,Pro c640 Chromebook,14,China,1.46,29899,310
+Laptop,HP,Chromebook 11A G8 Education,11.6,China,0.454,41208,235
+Laptop,HP,Spectre x360 13,13.3,China,1.29,152042,355
+Laptop,HP,Spectre x360 15,15,China,2.3,220900,430
+Laptop,HP,Probook 440 G8,14,China,2.2,151900,300
+Laptop,HP,ProBook 450 G7,15.6,China,2,25591,345
+Laptop,HP,Probook 640 G5,14,China,2.34,275075,250
+Laptop,HP,Elitebook s360 830 G6,13.3,China,1.35,144363,292
+Laptop,HP,EliteBook 1040 G4,14,China,2.36,221863,260
+Laptop,HP,EliteBook 840 G6,14,China,1.5,161900,375
+Laptop,Lenovo,ThinkPad E580,15.6,China,2.13,93697,421
+Laptop,Lenovo,ThinkPad T480,14,China,1.58,140285,448
+Laptop,Lenovo,ThinkPad T570/P51s,15.6,China,2.2,63000,525
+Laptop,Lenovo,ThinkPad X1 Nano,13,China,,,323
+Laptop,Lenovo,ThinkPad X1 Yoga,14,China,,,457
+Laptop,Lenovo,ThinkPad X1 Yoga 2nd Gen.,14,China,,,445.24
+Laptop,Lenovo,ThinkPad X1 Yoga 3rd Gen.,14,China,,,386
+Laptop,Lenovo,ThinkPad X1 Yoga 6th Gen.,14,China,,,520
+Laptop,Lenovo,ThinkPad X1 Yoga LTE 4th Gen.,14,China,,,449
+Laptop,Apple,Apple MacBook Pro,16,China,2,195843,394
+Laptop,Apple,Apple MacBook Pro,13,China,1.4,118990,217
+Laptop,Microsoft, Surface Book 2 ,15,China,1.9,268998,232
+Laptop,Microsoft, Surface Laptop 3,15,China,1.54,124999,316
+Mobiles,Apple,Apple iPhone 12 Pro Max,6.7,China,0.228,134300,86
+Mobiles,Apple,Apple iPhone 12 Pro,6.1,China,0.189,119900,82
+Mobiles,Apple,Apple iPhone 12,6.1,China,0.164,71900,70
+Mobiles,Apple,Apple iPhone 12 Mini,5.4,China,0.135,62900,64
+Mobiles,Apple,Apple iPhone SE (2nd gen),,China,,,57
+Mobiles,Apple,Apple iPhone 11 Pro Max,6.5,China,0.226,117100,86
+Mobiles,Apple,Apple iPhone 11 Pro,5.8,China,0.188,106600,80
+Mobiles,Apple,Apple iPhone 11,,China,,,72
+Mobiles,Apple,Apple iPhone XS Max,,China,,,77
+Mobiles,Apple,Apple iPhone XS,,China,,,70
+Mobiles,Apple,Apple iPhone XR,,China,,,62
+Mobiles,Apple,Apple iPhone X,,China,,,79
+Mobiles,Apple,Apple iPhone 8 Plus,,China,,,68
+Mobiles,Apple,Apple iPhone 8 ,,China,,,57
+Mobiles,Apple,Apple iPhone 7 Plus,,China,,,67
+Mobiles,Apple,Apple iPhone 7,,China,,,56
+Mobiles,OnePlus,9R 5G,6.6,China,0.188,39999,66
+Mobiles,OnePlus,9 Pro 5G ,6.7,China,0.196,69999,63
+Mobiles,OnePlus,9 5G,6.6,China,0.18,54999,64
+Mobiles,OnePlus, Nord CE 5G,6.4,China,0.17,24999,59
+Mobiles,OnePlus,8T 5G,6.6,China,0.188,45999,67
+Mobiles,OnePlus,3T,5.5,China,0.159,34999,70
+Mobiles,Samsung, Galaxy M42 ,6.6,China,0.193,24999,67
+Mobiles,Samsung,Galaxy M11,6.4,China,0.197,14999,56
+Mobiles,Samsung, Galaxy M31,6.4,China,0.191,21999,70
+Mobiles,Samsung,Galaxy M02s,6.5,China,0.196,11499,62
+Mobiles,Samsung,Galaxy M01,5.3,China,0.15,8499,59
+Mobiles,Samsung,Galaxy M12 ,6.5,China,0.221,15499,56
+Mobiles,Vivo,V21 5G,6.4,China,0.177,32990,78
+Mobiles,Vivo,Y12s,6.5,China,0.191,13990,65
+Mobiles,Vivo, Y31 ,6.6,China,0.188,20490,58
+Mobiles,Vivo, Y20G,6.5,China,0.188,16990,72
+Mobiles,Vivo,Y51A,6.6,China,0.188,21990,66
+Mobiles,Vivo,Y1s,6.2,China,0.161,11990,64
+Mobiles,Vivo,Y20A,6.5,China,0.192,15490,59
+Mobiles,Oppo,F19 Pro,6.4,China,0.173,25990,61
+Mobiles,Oppo,A31,6.5,China,0.18,11490,68
+Mobiles,Oppo,A74,6.5,China,0.188,17990,65
+Mobiles,Oppo,Reno5 Pro,6.6,China,0.173,3599,70
+Mobiles,Oppo,A52,6.5,China,0.192,14990,59
+Mobiles,Oppo,A15,6.5,China,0.175,9990,66
+Mobiles,Oppo,A54,6.5,China,0.192,14490,70
+Mobiles,Oppo,F17,6.4,China,0.163,16990,61
+,,,,,,,
+,,,,China,,,
+Microwave,Koryo, KMS2311,,China,11.2,6990,37
+Microwave,Haier,?HIL2001MWPH,,China,10.4,7999,36
+Microwave,LG,MC2846SL,,China,17.8,16390,34
+Microwave,LG,MC2846BV,,China,20.6,15490,36
+Microwave,LG,MJ2886BFUM,,China,19.5,21990,39
+Microwave,LG,MS4295DIS,,China,50,16490,34
+Microwave,LG,MC2146BV,,China,18.6,11695,38
+Microwave,LG,MC2886BPUM,,China,0.19,20490,37
+Microwave,Samsung,MC28H5025VP/TL,,China,17.5,17690,35
+Microwave,Samsung,CE73JD-B/XTL,,China,15,11050,38
+Microwave,Samsung,MS23F301TAK/TL,,China,12,6400,34
+Microwave,IFB,20SC2,,China,14.3,12890,37
+Microwave,IFB,25SC4,,China,16.1,15990,38
+Microwave,IFB,?25PM2S,,China,13,7999,38
+Microwave,Bajaj,1701 MT,,China,11.3,4499,39
+Microwave,Panasonic,NN-CT353BFDG,,China,16.6,14590,40
+Microwave,Panasonic,?NN-SM25JBFDG,,China,10.5,6790,38
+Microwave,Panasonic,?NN-ST26JMFDG,,China,10.5,7690,40
+Microwave,Samsung,MC28H5013AK/TL,,China,17.5,14900,41
+Microwave,LG,MC2886BRUM,,China,22.7,19290,34
+Microwave,LG,MC3286BRUM,,China,27.9,22990,37
+Microwave,Godrej,?GME 523 CF1 RM Plain Elec,,China,17,13990,35
+Microwave,Bajaj,2005 ETB,,China,11.5,9430,33
+Microwave,Bajaj,MTBX 2016,,China,11.3,7775,42
+Microwave,Whirlpool,MAGICOOK PRO SOLO 25,,China,13.9,9200,44
+Microwave,Whirlpool,?MAGICOOK PRO 20SE BLACK,,China,12,8775,38
+Microwave,Godrej,GMX 20SA2,,China,9.8,7140,37
+Microwave,Godrej,GMX 519 CP1,,China,15,13150,35
+Microwave,AmazonBasics,?AB2019001,,China,10.8,8999,40
+Microwave,Panasonic,NN-CT645BFDG,,China,20.39,16790,36
+,,,,China,,,
+Washing Machine,Samsung,WA65A4002VS/TL,,China,70.73,16800,51
+Washing Machine,Bosch,WAJ2426AIN,,China,71.45,41800,48
+Washing Machine,Godrej,WTEON 600 AD 5.0 ROGR,,China,29.5,16500,49
+Washing Machine,LG,?FHT1409ZWS,,China,60,57990,52
+Washing Machine,LG,P6510NBAY,,China,32,12090,46
+Washing Machine,Haier,HWM62-707E,,China,16,13499,47
+Washing Machine,Panasonic,NA-W65E5ARB,,China,19.5,11000,48
+Refridgerator,Samsung,RR19A241BGS,,China,30,14990,90
+Refridgerator,Whirlpool,215 IMPRO ROY 4S INV SAPPHIRE MULIA,,China,37.8,20150,95
+Refridgerator,Samsung,?RR24A2Y2YS8/NL,,China,36,18990,97
+Refridgerator,Godrej,?52141501SD02221,,China,35,16490,96
+Refridgerator,Whirlpool,?IF INV CNV 278 GERMAN STEEL (3s)-N,,China,56,28250,92
+Kettle,Kent,16023,,China,0.8,1850,73
+Kettle,Pigeon, Amaze Plus 1.5 Ltr,,China,0.9,1195,70
+Kettle,Prestige, PKOSS 1.5,,China,0.3,1045,71
+Kettle,Butterfly,? EKN,,China,0.94,1111,74
+Kettle,Havells,Aqua DX,,China,1.14,3295,73
+Dishwasher,Faber, ?DISHWASHER FFSD 8PR 14S,,China,14,53000,56
+Dishwasher,Voltas Beko,?DT8S,,China,25.5,25990,54
+Dishwasher,Bosch,?SMS66GI01I,,China,43.5,46490,52
+Dishwasher,AmazonBasics, AB2020DW002,,China,47,43999,56
+Dishwasher,IFB,?Neptune VX,,China,99.4,39990,59
+Light Bulb 18W,Crompton,?CROM 18W B-22 WH-01,,China,0.138,390,11
+Light Bulb 18W,Syska,?SSK-SRL-18W-MG-B22-6500K,,China,0.2,399,10
+Light Bulb 18W,Wipro,?N18001,,China,0.5,430,11
+Light Bulb 18W,Bajaj,?830188,,China,0.26,430,12
+Light Bulb 18W,Panasonic,?PBUM01187-18W-PK4,,China,0.11,2160,9

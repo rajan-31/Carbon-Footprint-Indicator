@@ -9,7 +9,7 @@ Over the past two centuries, mankind has increased the concentration of CO2 in t
 Customers buying the products via websites could check the CO2 emission rate produced by the respective products and try to minimize the utilization of the products that cause high CO2 emission rate just contributing to sustainable development and improve the climatic behaviours.
 
 **-The idea**
-Create a Chrome extension to show Carbon Emission of the products that are viewed by the customer on E-commerce websites (like Amazon.in).
+Create a Chrome extension to show Carbon Emission of the products that are viewed by the customer on E-commerce websites so that they could be made aware of their contribution of carbon footprints and they could make a better choice with respect to the sustainable development(like Amazon.in).
 #
 **Video**
 #
@@ -70,11 +70,11 @@ The project currently involves the following:
 - IBM Machine Learning Service
 - Algorithm used: XGBRegressor
 
-
+<!-- 
 #
 **Contributing**
 #
-**Versioning**
+**Versioning** -->
 #
 **Authors**
 + [Vaishnavi Sriramoju]
@@ -85,10 +85,10 @@ The project currently involves the following:
 (https://github.com/rajan-31)
 + [Chirag Jain]
 (https://github.com/ChiragJain99)
-#
+<!-- #
 **Licensing**
 #
-**Acknowledgements**
+**Acknowledgements** -->
 
 
 

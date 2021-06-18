@@ -26,8 +26,8 @@ Create a Chrome extension to show Carbon Emission of the products that are viewe
   Digital tools and services are an integral part of our lives. It’s hard to imagine a life without smartphones, apps, Wikipedia, online banking, route planners with GPS and having a huge selection of music and movies at your fingertips pretty much everywhere, around the clock. All of these things make our lives so much easier. 
   But the carbon footprint of electronics, including smartphones, is about 3.7% of global greenhouse emissions, around 14 ounces of carbon dioxide per person each year. The tricky part of calculating electronic emissions is that we often think of their impact in terms of either their creation and usage. To more accurately estimate the influence of these gadgets, we must consider the whole life cycle of the product.
    In this project we are developing and training a Machine Learning model which can give us Carbon Emission of a particular product.
-   
-**Key Aspects:**
+
+ + **Key Aspects:**
 
 -Watson Studio:
 IBM’s software platform for data science. One can create a project with a group of collaborators, all having access to various analytics models and using various languages (R/Python/Scala). Watson Studio brings together staple open source tools including RStudio, Spark and Python in an integrated environment, along with additional tools such as a managed Spark service and data shaping facilities, in a secure and governed environment.
@@ -43,7 +43,7 @@ and automatically generate APIs to build AI-powered applications through DevOps.
 Extreme Gradient Boosting (XGBoost) is an open-source library that provides an efficient and effective implementation of the gradient boosting algorithm.
 Regression predictive modeling problems involve predicting a numerical value such as a dollar amount or a height. XGBoost can be used directly for regression predictive modeling.
 
-**The basic Workflow of the project would be:**
++ **The basic Workflow of the project would be:**
 
 ![image](https://user-images.githubusercontent.com/78497037/122598966-37cac800-d08b-11eb-8815-49f062132b7c.png)
 
@@ -64,10 +64,11 @@ The project currently involves the following:
 **Live demo**
 #
 **Built with**
-IBM Watson Studio
-IBM Object Storage
-IBM Machine Learning Service
-Algorithm used: XGBRegressor
+
+- BM Watson Studio
+- IBM Object Storage
+- IBM Machine Learning Service
+- Algorithm used: XGBRegressor
 
 
 #
@@ -76,6 +77,14 @@ Algorithm used: XGBRegressor
 **Versioning**
 #
 **Authors**
++ [Vaishnavi Sriramoju]
+(https://github.com/vaishnavii-s)
++ [Dhruva Mhatre]
+(https://github.com/Dhruva2105)
++ [Rajan Khade]
+(https://github.com/rajan-31)
++ [Chirag Jain]
+(https://github.com/ChiragJain99)
 #
 **Licensing**
 #

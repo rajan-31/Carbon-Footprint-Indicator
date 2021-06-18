@@ -62,6 +62,9 @@ The project currently involves the following:
 **Getting Started**
 #
 **Live demo**
+
+[Watch the video](https://youtu.be/ULOqKk8OxOo)
+
 #
 **Built with**
 
